@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pawan Kumar Mehta</h1>
 <h3 align="center">A passionate software developer</h3>
 
+![](https://komarev.com/ghpvc/?username=pawanpk87&color=blue)
+
 - 🌱 I’m actively looking for a new opportunity as a Software developer engineer | Fronted developer | React Developer
 
 - 👨‍💻 All of my projects are available at [https://github.com/pawanpk87](https://github.com/pawanpk87)
