@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pawan</h1>
 <h3 align="center">A passionate software developer</h3>
 
-![](https://komarev.com/ghpvc/?username=pawanpk87&color=blue)
-
 - 🌱 I’m actively looking for a new opportunity as a Software developer engineer | Fronted developer | React Developer
 
 - 👨‍💻 All of my projects are available at [https://github.com/pawanpk87](https://github.com/pawanpk87)
@@ -31,3 +29,4 @@
 
 <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=pawanpk87">
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawanpk87&hide=TeX&layout=compact">
+![](https://komarev.com/ghpvc/?username=pawanpk87&color=blue)
