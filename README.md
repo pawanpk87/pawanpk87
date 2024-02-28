@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawanpk87&label=Profile%20views&color=0e75b6&style=flat" alt="pawanpk87" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/pawanpk87](https://github.com/pawanpk87)
-
 - 📫 How to reach me **arowpk@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/18vBElWhRrJ8QS2l5eQgzdNE6rKYhAJrT/view](https://drive.google.com/file/d/18vBElWhRrJ8QS2l5eQgzdNE6rKYhAJrT/view)
